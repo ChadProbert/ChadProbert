@@ -18,7 +18,7 @@
 <br/>
 
 
-![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=70392F&text_color=70392F&hide_border=true) 
+![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=0D1117&text_color=0D1117&hide_border=true) 
 
 <br/>
 
