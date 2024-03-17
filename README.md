@@ -36,11 +36,6 @@ and many more...
 -->
 
 
-<br/>
-<br/>
-
-
-
 <!-- ![Chad's Github Stats](https://github-readme-streak-stats.herokuapp.com?user=ChadProbert&theme=dark) -->
 
 </div>
