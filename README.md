@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chad 👋</h1>
 <h3 align="center">A web developer, software engineer and coding mentor from South Africa</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=chadprobert&label=Profile%20views&color=brightgreen&style=flat" alt="chadprobert" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=chadprobert&label=Profile%20views" alt="chadprobert" /></p>
 <div align="center">
   
  <img src="/github6.gif" wdith="700" height="500"/>
