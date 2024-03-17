@@ -24,17 +24,17 @@ and many more...
   
 </p>
 
-  
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadProbert&layout=compact&theme=vision-friendly-dark)](https://github.com/ChadProbert/github-readme-stats) -->
-</div>
-
-<!--
-<div align="center">
-
-![Chad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&show_icons=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChadProbert&theme=dark&hide_border=false)](https://git.io/streak-stats) 
-
-</div>
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadProbert&langs_count=3)![Chad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&show_icons=true&theme=dark&) 
 -->
+
+
+<br/>
+<br/>
+
+![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=222&text_color=222&hide_border=true) ![Chad's Github Stats](https://github-readme-streak-stats.herokuapp.com?user=ChadProbert&theme=dark)
+
+</div>
 <!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
