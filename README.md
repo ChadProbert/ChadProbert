@@ -7,18 +7,18 @@
 
 <br/>
 <br/>
-<br/>
-
-![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=222&text_color=222&hide_border=true) 
-
-<br/>
-<br/>
 
 🌱 I’m currently learning **Machine Learning**
 
 👨‍💻 Here is my porfolio [https://chadprobert.github.io/](https://chadprobert.github.io/)
 
 📫 How to reach me **chadcprobert@gmail.com**
+
+<br/>
+<br/>
+
+
+![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=222&text_color=222&hide_border=true) 
 
 <br/>
 
