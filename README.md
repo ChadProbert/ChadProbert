@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Machine Learning**
 
-👨‍💻 Here is my porfolio **[https://chadprobert.github.io/](https://chadprobert.github.io/)**
+👨‍💻 Here is my porfolio **[https://chadprobert.github.io/](https://chadprobert.github.io)**
 
 📫 How to reach me **chadcprobert@gmail.com**
 
