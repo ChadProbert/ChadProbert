@@ -3,7 +3,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=chadprobert&label=Profile%20views" alt="chadprobert" /></p>
 <div align="center">
   
- <img src="/git5.gif" wdith="300" height="300"/>
+ <img src="/git1.gif" wdith="500" height="500"/>
 
 <br/>
 <br/>
