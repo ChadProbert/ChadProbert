@@ -9,4 +9,4 @@ Powered by ➜ *Nescafé Gold ⚡*
 <br/>
 
   
-![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=0D1117&text_color=0D1117&hide_border=true) 
+![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=0D1117&title_color=39FF15&text_color=fff&border_color=39FF15) 
