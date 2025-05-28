@@ -1,20 +1,17 @@
-Currently working on ➜ *[chadprobert.github.io/celerity/](https://chadprobert.github.io/celerity/)*
-
-Currently learning ➜ *Cyber Security*
+Working on ➜ **[chadprobert.github.io/celerity/](https://chadprobert.github.io/celerity/)**
 
 My porfolio ➜ *[chadprobert.github.io/](https://chadprobert.github.io)*
 
-Contact me ➜ <em> *chadcprobert@gmail.com*
+Contact me ➜ *chadcprobert@gmail.com*
 
 <br/>
 
-<div>
   
 ![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=0D1117&text_color=0D1117&hide_border=true) 
 
-Powered by ➜ *Nescafé Gold ⚡*
+<br/>
 
-</div>
+Powered by *Nescafé Gold ⚡*
 <!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=chadprobert&label=Profile%20views" alt="chadprobert" /></p>
 <h3 align="center">Languages, Frameworks and Tools</h3>
