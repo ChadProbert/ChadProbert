@@ -8,13 +8,15 @@
 <br/>
 <br/>
 
-🌱 I’m currently learning **Machine Learning**
+Currently learning ➜ **Cyber Security**
 
-👨‍💻 Here is my porfolio **[https://chadprobert.github.io/](https://chadprobert.github.io)**
+Currently working on ➜  **[chadprobert.github.io/celerity/](https://chadprobert.github.io/celerity/)**
 
-📫 How to reach me **chadcprobert@gmail.com**
+My porfolio ➜ **[chadprobert.github.io/](https://chadprobert.github.io)**
 
-⚡ Powered by Nescafé Gold
+Contact me ➜ **chadcprobert@gmail.com**
+
+Powered by ➜ Nescafé Gold ⚡ 
 
 <br/>
 <br/>
@@ -35,9 +37,3 @@ and many more...
 </p>
 
 </div>
-<!--
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/chad probert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chad probert" height="30" width="40" /></a>
-</p>
--->
