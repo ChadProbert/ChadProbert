@@ -1,33 +1,18 @@
-<h1 align="center">Hi, I'm Chad 👋</h1>
-<h3 align="center">A web developer, software engineer and coding mentor from South Africa</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=chadprobert&label=Profile%20views" alt="chadprobert" /></p>
-<div align="center">
-  
- <img src="/github6.gif" wdith="500" height="500"/>
-
-<br/>
-<br/>
-<br/>
-
-Currently learning ➜ **Cyber Security**
-
-Currently working on ➜  **[chadprobert.github.io/celerity/](https://chadprobert.github.io/celerity/)**
-
-My porfolio ➜ **[chadprobert.github.io/](https://chadprobert.github.io)**
-
-Contact me ➜ **chadcprobert@gmail.com**
-
-<br/>
-<br/>
-
-
 ![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=0D1117&text_color=0D1117&hide_border=true) 
 
-Powered by ➜ Nescafé Gold ⚡ 
-<br/>
-<br/>
+Currently working on ➜ <em> **[chadprobert.github.io/celerity/](https://chadprobert.github.io/celerity/)** </em>
 
-<!-- <h3 align="center">Languages, Frameworks and Tools</h3>
+Currently learning ➜ <em> **Cyber Security** </em>
+
+My porfolio ➜ <em> **[chadprobert.github.io/](https://chadprobert.github.io)** </em>
+
+Contact me ➜ <em> **chadcprobert@gmail.com** </em>
+
+
+Powered by ➜ <em> Nescafé Gold ⚡ </em>
+<!--
+<p align="center"><img src="https://komarev.com/ghpvc/?username=chadprobert&label=Profile%20views" alt="chadprobert" /></p>
+<h3 align="center">Languages, Frameworks and Tools</h3>
 <br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -38,5 +23,3 @@ and many more...
 </p>
 
 -->
-
-</div>
