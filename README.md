@@ -7,6 +7,7 @@
 
 <br/>
 <br/>
+<br/>
 
 Currently learning ➜ **Cyber Security**
 
@@ -16,17 +17,17 @@ My porfolio ➜ **[chadprobert.github.io/](https://chadprobert.github.io)**
 
 Contact me ➜ **chadcprobert@gmail.com**
 
-Powered by ➜ Nescafé Gold ⚡ 
-
 <br/>
 <br/>
 
 
 ![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=30,f85f11,f98e09&title_color=0D1117&text_color=0D1117&hide_border=true) 
 
+Powered by ➜ Nescafé Gold ⚡ 
+<br/>
 <br/>
 
-<h3 align="center">Languages, Frameworks and Tools</h3>
+<!-- <h3 align="center">Languages, Frameworks and Tools</h3>
 <br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -35,5 +36,7 @@ Powered by ➜ Nescafé Gold ⚡
 <br/>
 and many more...
 </p>
+
+-->
 
 </div>
