@@ -1,4 +1,4 @@
-![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=0D1117&title_color=39FF15&text_color=fff&border_color=444) 
+![Chad's Github Stats](https://github-readme-stats.vercel.app/api?username=ChadProbert&bg_color=0D1117&title_color=56D364&text_color=fff&border_color=444) 
 
 <br/>
 
